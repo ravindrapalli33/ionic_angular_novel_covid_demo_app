@@ -1,0 +1,7 @@
+{
+  "name": "./ionic_angular_novel_covid_demo_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

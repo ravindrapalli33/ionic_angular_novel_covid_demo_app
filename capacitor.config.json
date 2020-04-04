@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "./ionic_angular_novel_covid_demo_app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
